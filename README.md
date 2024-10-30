@@ -1,4 +1,4 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+👋+I'm+Mussie+Alemayehu;Flutter+Developer+%26+UI+Designer)](https://git.io/typing-svg)</div>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+👋+I'm+Mussie+Alemayehu;Flutter+Developer)](https://git.io/typing-svg)</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/mussie-alemayehu">
