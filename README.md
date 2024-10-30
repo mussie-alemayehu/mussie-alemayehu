@@ -50,7 +50,7 @@ class Developer {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussie-alemayehu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mussie-alemayehu&theme=tokyonight&utcOffset=8" width="49%" alt="Coding Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mussie-alemayehu&theme=tokyonight&utcOffset=3" width="49%" alt="Coding Activity" />
 </div>
 
 ## 🏆 GitHub Trophies
