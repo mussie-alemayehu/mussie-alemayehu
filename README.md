@@ -66,6 +66,12 @@ class MobileEngineer {
   <a href="https://github.com/mussie-alemayehu/movie_db">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mussie-alemayehu&repo=movie_db&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
+  <a href="https://github.com/mussie-alemayehu/notes-and-to-do">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mussie-alemayehu&repo=notes-and-to-do&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  </a>
+  <a href="https://github.com/mussie-alemayehu/student-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mussie-alemayehu&repo=student-portal&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  </a>
 </div>
 
 ## 📊 GitHub Analytics
